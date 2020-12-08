@@ -87,7 +87,7 @@
     > User wins game\
    ><img src="Images/Won Game.png">\
    > invalid input\
-   ><img src="Invalid.png">\
+   ><img src="Images/Invalid.png">
 
  
  ## Installation/Usage
