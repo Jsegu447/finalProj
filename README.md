@@ -71,21 +71,24 @@
  > * Complete the sections below (i.e. Screenshots, Installation/Usage, Testing)
  > * Plan one more sprint (that you will not necessarily complete before the end of the quarter). Your In-progress and In-testing columns should be empty (you are not doing more work currently) but your TODO column should have a full sprint plan in it as you have done before. This should include any known bugs (there should be some) or new features you would like to add. These should appear as issues/cards on your Kanban board. 
  ## Screenshots
- > Screenshots of the input/output after running your application
- ><img src="Images/Start.png">
- > The start of the game and asked for game difficulty
- ><img src="Images/First display.png">
- > Display of the game board with the pirate counter 
-   ><img src="Images/Ask for Input.png">
- > User inputs the coordinates
-   ><img src="Images/Safe Display.png">
-  >  Board updates after user inputs 
-   ><img src="Images/One bomb.png">
-   > User hits their first pirate ship but can still continue.
+ > Screenshots of the input/output after running your application:\
+ > The start of the game and asked for game difficulty\
+><img src="Images/Start.png">\
+ > Display of the game board with the pirate counter \
+ ><img src="Images/First display.png">\
+ > User inputs the coordinates\
+   ><img src="Images/Ask for Input.png">\
+  >  Board updates after user inputs \
+   ><img src="Images/Safe Display.png">\
+   > User hits their first pirate ship but can still continue.\
+   ><img src="Images/One bomb.png">\
+ > User looses game\
    ><img src="Images/Lose Easy.png">\
-   > User looses game\
+    > User wins game\
    ><img src="Images/Won Game.png">\
-   > User wins game
+   > invalid input\
+   ><img src="Invalid.png">\
+
  
  ## Installation/Usage
  > Instructions on installing and running your application
@@ -97,4 +100,5 @@
    > * The user will win the game once they uncover all the pirate ships on the board. 
  ## Testing
  > How was your project tested/validated? If you used CI, you should have a "build passing" badge in this README.
+ ><img src="TST1.png">\
  
