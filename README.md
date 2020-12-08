@@ -82,9 +82,9 @@
    ><img src="Images/Safe Display.png">\
    > User hits their first pirate ship but can still continue.\
    ><img src="Images/One bomb.png">\
- > User looses game\
+> User looses game\
    ><img src="Images/Lose Easy.png">\
-    > User wins game\
+     User wins game\
    ><img src="Images/Won Game.png">\
    > invalid input\
    ><img src="Images/Invalid.png">
