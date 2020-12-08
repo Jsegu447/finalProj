@@ -100,5 +100,5 @@
    > * The user will win the game once they uncover all the pirate ships on the board. 
  ## Testing
  > How was your project tested/validated? If you used CI, you should have a "build passing" badge in this README.
- ><img src="T.png">\
+ > <img src="Images/T.png">
  
